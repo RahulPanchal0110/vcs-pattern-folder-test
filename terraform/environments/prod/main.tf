@@ -1,3 +1,2 @@
-terraform {
+resource "null_resource" "test-test-4" {
 }
-resource "null_resource" "prod-null-11" {}
