@@ -1,3 +1,5 @@
-resource "null_resource" "prod-null-9"
+terraform {
+}
+resource "null_resource" "prod-null-10"
 {
 }
