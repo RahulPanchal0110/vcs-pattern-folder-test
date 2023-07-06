@@ -1,0 +1,1 @@
+# vcs-pattern-folder-test
